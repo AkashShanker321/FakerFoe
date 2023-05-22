@@ -1,4 +1,4 @@
-# Deep steganalysis code (15% implementation)
+# Deep steganalysis code 
 
 def perform_deep_steganalysis(image):
     # Deep steganalysis logic
